@@ -103,10 +103,6 @@ ben.merhaba_de()
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdnz77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="En Çok Kullanılan Diller" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkdnz77&custom_title=Gökdeniz'in%20Katkı%20Grafiği&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Aktivite Grafiği" />
-</div>
-
 ---
 
 ## 🏆 GitHub Kupaları
@@ -117,36 +113,10 @@ ben.merhaba_de()
 
 ---
 
-## 🎯 Öne Çıkan Projeler
+## 🎯 Öne Çıkan Projelerim
 
-<div align="center">
-
-<a href="https://github.com/gkdnz77/PetSimulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gkdnz77&repo=PetSimulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-<a href="https://github.com/gkdnz77/Crypto-Portfolio-Top-20-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gkdnz77&repo=Crypto-Portfolio-Top-20-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-<a href="https://github.com/gkdnz77/BinarySearchTree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gkdnz77&repo=BinarySearchTree&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-<a href="https://github.com/gkdnz77/SteamVeriAnalizi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gkdnz77&repo=SteamVeriAnalizi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🔥 Daha Fazla Proje</b></summary>
-<br/>
-
-### 🐱 Pet Simulator
-**Masaüstü Sanal Pet Oyunu** - C# Windows Forms
+### 🐱 [Pet Simulator](https://github.com/gkdnz77/PetSimulator)
+**Masaüstü Sanal Pet Oyunu** - C# Windows Forms ile geliştirildi
 - ✨ Özel animasyonlu pixel-art grafikleri
 - 🎮 Mini oyunlar: top yakalama, numaralar (otur, pati ver, takla at)
 - 🏆 6 açılabilir başarımlı başarım sistemi
@@ -156,7 +126,7 @@ ben.merhaba_de()
 - ⌨️ Global klavye kısayolları
 - 🔇 Açılıp kapatılabilir ses efektleri
 
-### 📈 Kripto Portföy Takipçisi
+### 📈 [Kripto Portföy Takipçisi](https://github.com/gkdnz77/Crypto-Portfolio-Top-20-Tracker)
 **Flask Tabanlı Kripto Para Portföy Yöneticisi**
 - 📊 Gerçek zamanlı fiyatlar için Binance API entegrasyonu
 - 💰 Canlı güncellemelerle top 20 coin takibi
@@ -164,7 +134,7 @@ ben.merhaba_de()
 - 📉 Portföy performans analitiği
 - 🔐 Güvenli veri işleme
 
-### 🎮 Ters Yazma Oyunu (Türkçe)
+### 🎮 [Ters Yazma Oyunu](https://github.com/gkdnz77/Reverse-_Typing-_Game-Turkish)
 **Türkçe Kelimelerle Hız Yazma Yarışması**
 - ⚡ 60 saniyelik zaman sınırı
 - 🏆 Dinamik puanlama sistemi
@@ -172,28 +142,26 @@ ben.merhaba_de()
 - 📊 Gerçek zamanlı istatistikler
 - 🇹🇷 Türkçe dil desteği
 
-### 🔍 Binary Search Tree (C#)
-**Klasik Veri Yapısı İmplementasyonu**
+### 🔍 [Binary Search Tree](https://github.com/gkdnz77/BinarySearchTree)
+**Klasik Veri Yapısı İmplementasyonu** - C#
 - 🌳 Eksiksiz BST operasyonları (ekleme, silme, arama)
 - 🔧 Ek yardımcı metodlar
 - 📚 Net dokümantasyonlu eğitici kod
 - ⚡ Optimize edilmiş algoritmalar
 
-### 📊 Steam Veri Analizi
+### 📊 [Steam Veri Analizi](https://github.com/gkdnz77/SteamVeriAnalizi)
 **Python Tabanlı Steam Oyun Analizi**
 - 🐼 Veri görselleştirme için Pandas & Matplotlib
 - 📈 Popüler oyun trend analizi
 - 💹 Fiyat ve değerlendirme korelasyonları
 - 🎮 Tür dağılımı içgörüleri
 
-### 🔔 Abonelik Takipçisi
+### 🔔 [Abonelik Takipçisi](https://github.com/gkdnz77/subscription-tracker)
 **Çoklu Platform Abonelik Yöneticisi**
 - 🎬 Netflix, Spotify, ChatGPT Plus aboneliklerini takip et
 - 💳 Maliyet hesaplama ve hatırlatıcılar
 - 📱 Flask web arayüzü
 - 📊 Harcama analitiği
-
-</details>
 
 ---
 
@@ -201,14 +169,6 @@ ben.merhaba_de()
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
-</div>
-
----
-
-## 🐍 Katkı Yılanı
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gkdnz77/gkdnz77/output/github-contribution-grid-snake-dark.svg" alt="Snake animasyonu" />
 </div>
 
 ---
