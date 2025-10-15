@@ -43,8 +43,6 @@ ben.merhaba_de()
 
 🔭 Şu anda **Pet Simulator** ve **Kripto Portföy Takipçisi** üzerinde çalışıyorum  
 🌱 **İleri C#** ve **Web Scraping Teknikleri** öğreniyorum  
-💡 **Masaüstü Uygulamaları** ve **Veri Analizi Projeleri** için işbirliğine açığım  
-⚡ Eğlenceli gerçek: **Kahveyi koda dönüştürüyorum** ☕➡️💻
 
 <br clear="right"/>
 
@@ -106,7 +104,6 @@ ben.merhaba_de()
 - 🎨 Özelleştirilebilir aksesuarlar (şapka, papyon, gözlük)
 - 🌤️ Dinamik hava efektleri (yağmur, kar, güneşli)
 - ⌨️ Global klavye kısayolları
-- 🔇 Açılıp kapatılabilir ses efektleri
 
 ### 📈 [Kripto Portföy Takipçisi](https://github.com/gkdnz77/Crypto-Portfolio-Top-20-Tracker)
 **Flask Tabanlı Kripto Para Portföy Yöneticisi**
@@ -146,12 +143,6 @@ ben.merhaba_de()
 - 📊 Harcama analitiği
 
 ---
-
-## 💡 Rastgele Geliştirici Sözü
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
-</div>
 
 ---
 
