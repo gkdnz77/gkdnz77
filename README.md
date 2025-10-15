@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Yazılım+Geliştirici+%F0%9F%92%BB;Masaüstü+%26+Web+Uygulamaları+%F0%9F%8C%90;Veri+Analizi+%26+Otomasyon+%F0%9F%93%8A" alt="Typing SVG" />
+  
 </div>
 
 <p align="center">
