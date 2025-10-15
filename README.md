@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gkdnz77&color=00D9FF&style=for-the-badge&label=PROFİL+GÖRÜNTÜLENMESİ" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gkdnz77?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&logo=github&label=TAKİPÇİ" alt="Followers" />
-</div>
-
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -92,19 +87,6 @@ ben.merhaba_de()
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkdnz77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub İstatistikleri" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gkdnz77&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Seri" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdnz77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="En Çok Kullanılan Diller" />
-</div>
-
----
-
 ## 🏆 GitHub Kupaları
 
 <div align="center">
@@ -113,7 +95,7 @@ ben.merhaba_de()
 
 ---
 
-## 🎯 Öne Çıkan Projelerim
+## 🎯 Projelerim
 
 ### 🐱 [Pet Simulator](https://github.com/gkdnz77/PetSimulator)
 **Masaüstü Sanal Pet Oyunu** - C# Windows Forms ile geliştirildi
