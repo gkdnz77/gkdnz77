@@ -144,7 +144,6 @@ ben.merhaba_de()
 
 ---
 
----
 
 ## 📫 Benimle İletişime Geçin!
 
