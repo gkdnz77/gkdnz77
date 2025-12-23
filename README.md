@@ -159,10 +159,6 @@ ben.merhaba_de()
   <a href="https://linkedin.com/in/gkdnzsglm">
     <img src="https://img.shields.io/badge/LinkedIn'de_Bağlan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  📧 **gkdnzzz7761@gmail.com**  
-  💼 **linkedin.com/in/gkdnzsglm**
-  
 </div>
 
 ---
